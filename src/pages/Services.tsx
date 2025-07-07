@@ -159,7 +159,7 @@ const Services = () => {
         </div>
       </section>
 
-      {/* Case Studies Placeholder */}
+      {/* Case Studies Placeholder 
       <section className="py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
@@ -190,6 +190,7 @@ const Services = () => {
           </div>
         </div>
       </section>
+      */}
 
       {/* CTA Section */}
       <section className="py-20 bg-gradient-to-r from-blue-900/50 to-purple-900/50">
