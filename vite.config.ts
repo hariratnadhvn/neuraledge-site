@@ -4,7 +4,8 @@ import { viteStaticCopy } from 'vite-plugin-static-copy';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/neuraledge-site/', // 👈 This is required for GitHub Pages
+  //base: '/neuraledge-site/', // 👈 This is required for GitHub Pages
+  base: '/',
   plugins: [
     react(),
     viteStaticCopy({
