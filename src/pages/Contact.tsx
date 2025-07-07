@@ -66,7 +66,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="text-lg font-semibold text-white">Email Us</h3>
-                    <p className="text-gray-300">info@neuraledge.com</p>
+                    <p className="text-gray-300">info@nrledge.com</p>
                   </div>
                 </div>
 
@@ -76,7 +76,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="text-lg font-semibold text-white">Call Us</h3>
-                    <p className="text-gray-300">+1 (555) 123-4567</p>
+                    <p className="text-gray-300">please send an email</p>
                   </div>
                 </div>
 
